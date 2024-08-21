@@ -22,7 +22,7 @@ void printerDigits(int Number)
      Remainder =Number % 10;
      Number = Number
      cout << Remainder << endl;
-  }
+   }
 }
 int main()
 {
